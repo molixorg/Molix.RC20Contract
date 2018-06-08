@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RC20Contract", "RC20Contract\RC20Contract.csproj", "{200D5810-1C9F-4BEF-9C48-72DD4AFC82FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{200D5810-1C9F-4BEF-9C48-72DD4AFC82FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200D5810-1C9F-4BEF-9C48-72DD4AFC82FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{200D5810-1C9F-4BEF-9C48-72DD4AFC82FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{200D5810-1C9F-4BEF-9C48-72DD4AFC82FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BBCC05C-5EBA-41BB-873F-AB9D02944546}
+	EndGlobalSection
+EndGlobal

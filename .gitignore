@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/RC20Contract/.vs/RC20Contract/v15
+/RC20Contract/RC20Contract/obj
